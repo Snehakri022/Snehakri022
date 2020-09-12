@@ -7,5 +7,7 @@
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me about Frontend WebD
 - 📫 How to reach me: https://www.linkedin.com/in/sneha-kumari-152532192/
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[Linkdin].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/[Linkdin].svg" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Snehakri022&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

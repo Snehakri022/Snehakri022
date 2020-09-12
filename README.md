@@ -1,5 +1,7 @@
 ### Hi I am "Sneha Kumari". 👋
 
+[![HitCount](http://hits.dwyl.com/Snehakri022/Snehakri022.svg)](http://hits.dwyl.com/Snehakri022/Snehakri022)
+
 - 🔭 I’m currently working on Design Projects.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 👯 I’m looking to collaborate on YouTube

@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Design Projects.
+- 🔭 I’m currently working on Web Design Projects.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me anything #here

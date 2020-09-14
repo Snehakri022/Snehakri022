@@ -39,7 +39,7 @@
 
 ---
 
-
+[![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=Snehakri022)](https://github.com/seema1711/github-readme-stats)
 
 
 

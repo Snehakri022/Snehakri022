@@ -42,4 +42,5 @@
 
 ---
 
+![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=Snehakri022&show_icons=true&theme=tokyonight)
 

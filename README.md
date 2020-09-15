@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="chiraag-kakar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p>
 
 
 ### Hi I am "Sneha Kumari". 👋

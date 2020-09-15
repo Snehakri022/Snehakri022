@@ -1,6 +1,6 @@
 ### Hi I am "Sneha Kumari". 👋
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username="Snehakri022" alt="Snehakri022" /> </p>
 
 - 🔭 I’m currently working on Web Design Projects.
 - 🌱 I’m currently learning Machine Learning and Data Science.

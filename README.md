@@ -38,6 +38,7 @@
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
 <img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
+<img align="left" alt="ubuntu" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original.svg" />
 
 <br />
 <br />

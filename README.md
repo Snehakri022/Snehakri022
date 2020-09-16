@@ -22,6 +22,7 @@
 
 [<img align="left" alt="Sneha Kumari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/snehaku95115627)
 [<img align="left" alt="Sneha Kumari  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/sneha-kumari-152532192)
+ [<img align="left" alt="Sneha Kumari - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>](https://www.facebook.com/profile.php?id=100007190169953)
 [<img align="left" alt="Sneha Kumari  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/sneha_thakur_022)
 
 <br />
@@ -36,6 +37,7 @@
 <img align="left" alt="css3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />
 
 <br />
 <br />

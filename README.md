@@ -23,7 +23,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 - ⚡ Fun fact: I love to listen to music and watch movies.
 
 
-<!--<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<!--<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" /> -->
 
 
 

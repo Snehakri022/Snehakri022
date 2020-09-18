@@ -2,11 +2,11 @@
 
 
 ### Hi I am "Sneha Kumari". 👋
-<p  align="center"><img src = "https://github.com/Snehakri022/Snehakri022/blob/master/gifs/intro.gif"></p>
 
-## Hello World! <img src="https://raw.githubusercontent.com/Snehakri022/Snehakri022/master/gifs/Hi.gif" width="30px"></h2>
-<br />
-
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Snehakri022)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Snehakri022)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Snehakri022&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/Snehakri022/Snehakri022?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 - 🔭 I’m currently working on Web Design Projects.
 - 🌱 I’m currently learning Machine Learning and Data Science.

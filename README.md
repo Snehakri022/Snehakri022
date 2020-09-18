@@ -2,9 +2,9 @@
 
 
 ### Hi I am "Sneha Kumari". 👋
-<p  align="center"><img src = "https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/intro.gif"></p>
+<p  align="center"><img src = "https://github.com/Snehakri022/Snehakri022/blob/master/gifs/intro.gif"></p>
 
-## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World! <img src="https://raw.githubusercontent.com/Snehakri022/Snehakri022/master/gifs/Hi.gif" width="30px"></h2>
 <br />
 
 

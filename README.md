@@ -1,4 +1,4 @@
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p> -->
 
 
 ### Hi I am "Sneha Kumari". 👋
@@ -21,7 +21,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 <br />
 
-<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
+<!--<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
 
 
 

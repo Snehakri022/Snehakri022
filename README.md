@@ -2,7 +2,10 @@
 
 
 ### Hi I am "Sneha Kumari". 👋
+<p  align="center"><img src = "https://github.com/syedareehaquasar/syedareehaquasar/blob/master/gifs/intro.gif"></p>
 
+## Hello World! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"></h2>
+<br />
 
 
 - 🔭 I’m currently working on Web Design Projects.

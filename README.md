@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snehakri022" alt="Sneha-kumari" /> </p>
 
 
 ### Hi I am "Sneha Kumari". 👋
@@ -16,7 +16,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and watch movies.
 
+### Glad to see you here! 🤩 &nbsp;
+I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalpaiguri Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
+<br />
+
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/coder.gif" />
 
 
 

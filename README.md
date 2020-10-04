@@ -8,7 +8,7 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Snehakri022&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Snehakri022/Snehakri022?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-### Glad to see you here! 🤩 &nbsp;
+### Glad to see you here!  🤩  &nbsp;
 I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalpaiguri Government Engineering College 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 <br />
@@ -19,7 +19,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 👯 I’m looking to collaborate on YouTube
 - 💬 Ask me anything🤓
-- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/)
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/) [Instagram](https://www.instagram.com/sneha_thakur_022/)
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to listen to music and watch movies.
 

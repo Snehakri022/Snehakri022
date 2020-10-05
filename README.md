@@ -53,4 +53,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 ---
 
 ![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=Snehakri022&show_icons=true&theme=tokyonight)
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.svg" alt="stacks"/>
+</h3>
 

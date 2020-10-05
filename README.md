@@ -41,6 +41,10 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="css3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Angular" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/angular/angular-original.svg" />
+
+
+
 
 
 

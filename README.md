@@ -33,7 +33,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 ### Tech stacks:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="46px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
@@ -42,7 +42,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="bootstrap" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
 <img align="left" alt="javascript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="django" width="56px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
+<img align="left" alt="django" width="66px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
 <img align="left" alt="typescript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <br />
 <br />

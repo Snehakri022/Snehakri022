@@ -14,7 +14,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <br />
 
 
-
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 - 🔭 I’m currently working on Web Design Projects.
 - 🌱 I’m currently learning Machine Learning and Data Science.
 - 👯 I’m looking to collaborate on YouTube

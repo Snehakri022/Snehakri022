@@ -15,13 +15,13 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on Web Design Projects.
-- 🌱 I’m currently learning Machine Learning and Data Science.
-- 👯 I’m looking to collaborate on YouTube
-- 💬 Ask me anything🤓
-- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/)
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to listen to music and watch movies.
+- 🔭 I’m currently working on Web Design Projects.<br />
+- 🌱 I’m currently learning Machine Learning and Data Science.<br />
+- 👯 I’m looking to collaborate on YouTube<br />
+- 💬 Ask me anything🤓<br />
+- 📫 How to reach me: [Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/)<br />
+- 🥅 2020 Goals: Contribute more to Open Source projects<br />
+- ⚡ Fun fact: I love to listen to music and watch movies.<br />
 
 
 

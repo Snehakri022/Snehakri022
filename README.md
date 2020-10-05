@@ -41,7 +41,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="css3" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
-<br /><img align="left" alt="Angualr"  src="https://img.shields.io/badge/Angular%20-%23F7DF1E.svg?&style=for-the-badge&color=DD0031" />&nbsp;&nbsp;<img align="left" alt="Trello"  src="https://img.shields.io/badge/Trello%20-%23F7DF1E.svg?&style=for-the-badge&color=0079BF" />&nbsp;&nbsp;<img align="left" alt="Slack"  src="https://img.shields.io/badge/Slack%20-%23F7DF1E.svg?&style=for-the-badge&color=4A154B" />&nbsp;&nbsp;<img align="left" alt="Pandas"  src="https://img.shields.io/badge/Pandas%20-%23F7DF1E.svg?&style=for-the-badge&color=110054" />&nbsp;&nbsp;<img align="left" alt="Typescript" src="https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;<img align="left" alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket%20-%23F7DF1E.svg?&style=for-the-badge&color=2684FF" />&nbsp;&nbsp; 
 
 <!--<h2>Tools & Technologies</h2>
 <p>

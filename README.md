@@ -44,6 +44,8 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="javascript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="django" width="66px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
 <img align="left" alt="typescript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
+<img align="left" alt="c" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
+<img align="left" alt="c++" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/c++/c++-original.svg" />
 <br />
 <br />
 

@@ -53,9 +53,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 
 

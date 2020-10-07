@@ -42,7 +42,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />
 <img align="left" alt="javascript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" />
 <img align="left" alt="angular" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
-<img align="left" alt="django" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
 <img align="left" alt="typescript" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img align="left" alt="c" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />

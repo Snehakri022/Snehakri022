@@ -45,7 +45,11 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="django" width="66px" src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" />
 <img align="left" alt="typescript" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" />
 <img align="left" alt="c" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" />
-<img align="left" alt="c++" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/c++/c++-original.svg" />
+<img align="left" alt="cplusplus" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="atom" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" />
+<img align="left" alt="jquery" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" />
+<img align="left" alt="slack" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
+<img align="left" alt="ubuntu" width="46px" src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-original.svg" />
 <br />
 <br />
 

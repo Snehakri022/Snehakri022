@@ -31,9 +31,9 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 <br />
 
-### Tech stacks:
+<!--### Tech stacks:-->
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!--<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Python" width="36px" src="https://github.com/seema1711/seema1711/raw/master/download.jpg" />
@@ -47,7 +47,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 <img align="left" alt="cplusplus" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="atom" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/atom/atom-original.svg" />
 <img align="left" alt="jquery" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original.svg" />
-<img align="left" alt="slack" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />
+<img align="left" alt="slack" width="36px" src="https://devicons.github.io/devicon/devicon.git/icons/slack/slack-original.svg" />-->
 
 <br />
 <br />

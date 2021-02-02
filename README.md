@@ -19,7 +19,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 - 👯 I’m looking to collaborate on YouTube<br />
 - 💬 Ask me anything🤓<br />
 - 📫 How to reach me:[Linkdin](https://www.linkedin.com/in/sneha-kumari-152532192/)<br />
-- 🥅 2020 Goals: Contribute more to Open Source projects<br />
+- 🥅 2021 Goals: Contribute more to Open Source projects<br />
 - ⚡ Fun fact: I love to listen to music and watch movies.<br />
 
 ### Connect with me:

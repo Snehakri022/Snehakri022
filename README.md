@@ -2,7 +2,6 @@
 
 #### Glad to see you here! 🤩
 
----
 <p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Snehakri022)
@@ -12,7 +11,6 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Snehakri022&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Snehakri022/Snehakri022?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
 </p>
 
 ---
@@ -22,9 +20,7 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 
 </div>
 
-<br>
-
-<img align="right" height="240px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - 🔭 I’m currently working on Web Design Projects.
 
@@ -37,8 +33,6 @@ I'm a third year student pursuing Bachelors's in Computer Science 🎓 from Jalp
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: The moon has moonquakes.
-
-<br>
 
 ### Connect with me:
 <div>

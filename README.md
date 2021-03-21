@@ -6,7 +6,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Snehakri022)
  &nbsp;
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Snehakri022)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/Snehakri022)
  &nbsp;
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Snehakri022&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  &nbsp;
